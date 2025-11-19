@@ -1,0 +1,123 @@
+C:\Users\dell\source\repos\JWT-API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\dell\source\repos\JWT-API\bin\Debug\net8.0\appsettings.json
+C:\Users\dell\source\repos\JWT-API\bin\Debug\net8.0\JWT-API.staticwebassets.endpoints.json
+C:\Users\dell\source\repos\JWT-API\bin\Debug\net8.0\JWT-API.exe
+C:\Users\dell\source\repos\JWT-API\bin\Debug\net8.0\JWT-API.deps.json
+C:\Users\dell\source\repos\JWT-API\bin\Debug\net8.0\JWT-API.runtimeconfig.json
+C:\Users\dell\source\repos\JWT-API\bin\Debug\net8.0\JWT-API.dll
+C:\Users\dell\source\repos\JWT-API\bin\Debug\net8.0\JWT-API.pdb
+C:\Users\dell\source\repos\JWT-API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\dell\source\repos\JWT-API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dell\source\repos\JWT-API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dell\source\repos\JWT-API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\JWT-API.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\JWT-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\JWT-API.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\JWT-API.AssemblyInfo.cs
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\JWT-API.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\JWT-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\JWT-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\scopedcss\bundle\JWT-API.styles.css
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\JWT-API.csproj.Up2Date
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\JWT-API.dll
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\refint\JWT-API.dll
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\JWT-API.pdb
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\JWT-API.genruntimeconfig.cache
+C:\Users\dell\source\repos\JWT-API\obj\Debug\net8.0\ref\JWT-API.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\appsettings.Development.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\JWT-API.staticwebassets.endpoints.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\appsettings.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\JWT-API.exe
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\JWT-API.deps.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\JWT-API.runtimeconfig.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\JWT-API.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\JWT-API.pdb
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\JWT-API.csproj.AssemblyReference.cache
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\rpswa.dswa.cache.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\JWT-API.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\JWT-API.AssemblyInfoInputs.cache
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\JWT-API.AssemblyInfo.cs
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\JWT-API.csproj.CoreCompileInputs.cache
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\JWT-API.MvcApplicationPartsAssemblyInfo.cs
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\JWT-API.MvcApplicationPartsAssemblyInfo.cache
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\JWT-API.sourcelink.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\scopedcss\bundle\JWT-API.styles.css
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\staticwebassets.build.json.cache
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\JWT-API.csproj.Up2Date
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\JWT-API.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\refint\JWT-API.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\JWT-API.pdb
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\JWT-API.genruntimeconfig.cache
+Z:\Git Repo\JWT-.Net-Angular\JWT-API\obj\Debug\net8.0\ref\JWT-API.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\appsettings.Development.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\appsettings.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\JWT-API.staticwebassets.endpoints.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\JWT-API.exe
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\JWT-API.deps.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\JWT-API.runtimeconfig.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\JWT-API.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\JWT-API.pdb
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.csproj.AssemblyReference.cache
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\rpswa.dswa.cache.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.AssemblyInfoInputs.cache
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.AssemblyInfo.cs
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.csproj.CoreCompileInputs.cache
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.MvcApplicationPartsAssemblyInfo.cs
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.MvcApplicationPartsAssemblyInfo.cache
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.sourcelink.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\rjimswa.dswa.cache.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\scopedcss\bundle\JWT-API.styles.css
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\staticwebassets.build.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\staticwebassets.build.json.cache
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\staticwebassets.development.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.csproj.Up2Date
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\refint\JWT-API.dll
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.pdb
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.genruntimeconfig.cache
+Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\ref\JWT-API.dll
