@@ -1,7 +1,8 @@
-using System.Text;
+using JwtRefreshDemo.Api.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
-using JwtRefreshDemo.Api.Services;
+using Microsoft.OpenApi.Models;
+using System.Text;
 
 namespace JWT_API
 {
@@ -61,7 +62,39 @@ namespace JWT_API
             builder.Services.AddSingleton<ITokenService, TokenService>();
 
             ////////////////////////JWT & Cores END///////////////////
-            
+
+            ////////////////////////Swagger Login Option///////////////////
+            builder.Services.AddSwaggerGen(s =>
+            {
+                s.SwaggerDoc("v1", new OpenApiInfo { Title = "JWT Authorized API", Version = "v1" });
+                s.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+                {
+                    Description = "This APIs uses Bearer token and you have to pass" +
+                    "it as Bearer <<_space_>> Token",
+                    Name = "Authorization",
+                    In = ParameterLocation.Header,
+                    Type = SecuritySchemeType.ApiKey,
+                    Scheme = "Bearer"
+                });
+                s.AddSecurityRequirement(new OpenApiSecurityRequirement()
+                {{
+                        new OpenApiSecurityScheme
+                        {
+                            Reference = new OpenApiReference
+                            {
+                                Type = ReferenceType.SecurityScheme,
+                                Id = "Bearer"
+                            },
+                            Scheme="oauth2",
+                            Name="Bearer",
+                            In=ParameterLocation.Header
+                        },
+                        new List<string>()
+                    }
+                });
+            });
+
+            ////////////////////////Swagger Login End///////////////////
 
             var app = builder.Build();
             app.UseCors(MyAllowSpecificOrigins);

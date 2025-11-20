@@ -12,12 +12,10 @@ export class AppComponent {
 
   constructor(private auth: AuthService, private http: HttpClient) {}
 
-  // src/app/app.component.ts (only the methods)
   loginAdmin() {
     this.auth.login('admin', '123').subscribe(
       (r) => {
-        this.result = r;
-        console.log('logged in', r);
+        this.result = 'User Loged In';
       },
       (err) => {
         this.result = err;
@@ -28,7 +26,8 @@ export class AppComponent {
   callMe() {
     this.http.get(`${environment.apiBaseUrl}/auth/me`).subscribe(
       (r) => {
-        this.result = r;
+        console.log(r);
+        this.result = 'User Detail Printed in console';
       },
       (err) => {
         this.result = err;
@@ -39,7 +38,7 @@ export class AppComponent {
   logout() {
     this.auth.logout().subscribe(
       (r) => {
-        this.result = r;
+        this.result = 'User loged Out';
       },
       (err) => {
         this.result = err;

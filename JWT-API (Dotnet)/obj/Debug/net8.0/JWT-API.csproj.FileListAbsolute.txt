@@ -121,3 +121,47 @@ Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\refint\JWT-API.dl
 Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.pdb
 Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.genruntimeconfig.cache
 Z:\Git Repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\ref\JWT-API.dll
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\appsettings.Development.json
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\appsettings.json
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\JWT-API.staticwebassets.endpoints.json
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\JWT-API.exe
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\JWT-API.deps.json
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\JWT-API.runtimeconfig.json
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\JWT-API.dll
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\JWT-API.pdb
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Microsoft.OpenApi.dll
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.csproj.AssemblyReference.cache
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\rpswa.dswa.cache.json
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.GeneratedMSBuildEditorConfig.editorconfig
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.AssemblyInfoInputs.cache
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.AssemblyInfo.cs
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.csproj.CoreCompileInputs.cache
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.MvcApplicationPartsAssemblyInfo.cs
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.MvcApplicationPartsAssemblyInfo.cache
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.sourcelink.json
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\rjimswa.dswa.cache.json
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\scopedcss\bundle\JWT-API.styles.css
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\staticwebassets.build.json
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\staticwebassets.build.json.cache
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\staticwebassets.development.json
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.csproj.Up2Date
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.dll
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\refint\JWT-API.dll
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.pdb
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\JWT-API.genruntimeconfig.cache
+P:\Aimil WorkSpace\git repo\JWT-.Net-Angular\JWT-API (Dotnet)\obj\Debug\net8.0\ref\JWT-API.dll

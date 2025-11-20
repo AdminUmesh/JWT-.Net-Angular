@@ -1,8 +1,8 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "JWT-API",
-    "version": "1.0"
+    "title": "JWT Authorized API",
+    "version": "v1"
   },
   "paths": {
     "/api/Auth/login": {
@@ -180,6 +180,19 @@
         },
         "additionalProperties": false
       }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "description": "This APIs uses Bearer token and you have to passit as Bearer <<_space_>> Token",
+        "name": "Authorization",
+        "in": "header"
+      }
     }
-  }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
 }
