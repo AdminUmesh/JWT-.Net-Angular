@@ -1,2 +1,2 @@
 # JWT-.Net-Angular
-.Net Angular JWT Practice
+JWT Authentication (Refresh Token)
