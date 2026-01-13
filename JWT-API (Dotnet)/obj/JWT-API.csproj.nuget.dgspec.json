@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Aimil WorkSpace\\git repo\\JWT-.Net-Angular\\JWT-API (Dotnet)\\JWT-API.csproj": {}
+    "Z:\\Git Repo\\JWT-.Net-Angular\\JWT-API (Dotnet)\\JWT-API.csproj": {}
   },
   "projects": {
-    "P:\\Aimil WorkSpace\\git repo\\JWT-.Net-Angular\\JWT-API (Dotnet)\\JWT-API.csproj": {
+    "Z:\\Git Repo\\JWT-.Net-Angular\\JWT-API (Dotnet)\\JWT-API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Aimil WorkSpace\\git repo\\JWT-.Net-Angular\\JWT-API (Dotnet)\\JWT-API.csproj",
+        "projectUniqueName": "Z:\\Git Repo\\JWT-.Net-Angular\\JWT-API (Dotnet)\\JWT-API.csproj",
         "projectName": "JWT-API",
-        "projectPath": "P:\\Aimil WorkSpace\\git repo\\JWT-.Net-Angular\\JWT-API (Dotnet)\\JWT-API.csproj",
-        "packagesPath": "C:\\Users\\nextgen-crs\\.nuget\\packages\\",
-        "outputPath": "P:\\Aimil WorkSpace\\git repo\\JWT-.Net-Angular\\JWT-API (Dotnet)\\obj\\",
+        "projectPath": "Z:\\Git Repo\\JWT-.Net-Angular\\JWT-API (Dotnet)\\JWT-API.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "Z:\\Git Repo\\JWT-.Net-Angular\\JWT-API (Dotnet)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\nextgen-crs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

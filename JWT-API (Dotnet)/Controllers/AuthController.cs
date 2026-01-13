@@ -7,6 +7,7 @@ using System.Security.Claims;
 
 namespace JwtRefreshDemo.Api.Controllers;
 
+[Authorize]
 [ApiController]
 [Route("api/[controller]")]
 public class AuthController : ControllerBase
@@ -25,6 +26,7 @@ public class AuthController : ControllerBase
         _refreshStore = refreshStore;
     }
 
+    [AllowAnonymous]
     [HttpPost("login")]
     public async Task<IActionResult> Login([FromBody] LoginRequest request)
     {
